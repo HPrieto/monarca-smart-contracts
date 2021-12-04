@@ -1,5 +1,5 @@
-# elons-musk-smart-contracts
-"Elon's Musk" ERC-20 Standard Token
+# monarca-smart-contracts
+Monarca ERC-20 Standard Token
 
 # Deploy to Live Network
 
